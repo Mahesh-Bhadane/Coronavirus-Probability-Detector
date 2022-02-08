@@ -33,5 +33,4 @@ Install libraries pickle and framework flask
 Run.
 
 # To see Full Project Report Please open Below Link :
-
-                                           <b> <a href="Project_Report.pdf">Coronavirus Probability Detector Project Report</a> </b>
+<b> <a href="Project_Report.pdf">Coronavirus Probability Detector Project Report</a> </b>
