@@ -13,7 +13,7 @@ run main.py , through main.py you will get a localhost link and get redirected t
 ![](./ss2.png)
 
 
-
+<br>
 Python code for coronavirus probability detector using data analysis and training machine learning model of logistic regression.
 
 # Tools used:
@@ -34,4 +34,4 @@ Run.
 
 # To see Full Project Report Please open Below Link :
 
-<b> <a href="Project_Report.pdf">Project Report</a> </b>
+                                           <b> <a href="Project_Report.pdf">Coronavirus Probability Detector Project Report</a> </b>
