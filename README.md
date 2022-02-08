@@ -5,7 +5,9 @@ MSC Project
 first run myTraining.py
 run main.py , through main.py you will get a localhost link and get redirected to your browser.
 
+![](./ss1.png)
 
+![](./ss2.png)
 
 
 Python code for coronavirus probability detector using data analysis and training machine learning model of logistic regression.
